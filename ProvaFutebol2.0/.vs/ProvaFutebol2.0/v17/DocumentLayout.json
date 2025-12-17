@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|c:\\users\\kauecmp2\\documents\\projetos-csharp\\provafutebol2.0\\provafutebol2.0\\notificacaocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\notificacaocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\alternotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\alternotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\alternotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\alternotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formhomeadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formhomeadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\adcionarnova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\adcionarnova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formhomeadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formhomeadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\adcionarnova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\adcionarnova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\alternotificacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\alternotificacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formhomeadm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formhomeadm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\notificacaocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\notificacaocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\notificacaocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\notificacaocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formhomeusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formhomeusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formcadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formcadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formhomeusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formhomeusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\formsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\formsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\provafutebol2.0\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{77A4D7D8-A2A4-45C0-970E-DDE83E315E0C}|ProvaFutebol2.0\\ProvaFutebol2.0.csproj|solutionrelative:provafutebol2.0\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 394,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdcionarNova.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AdcionarNova.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\AdcionarNova.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AdcionarNova.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\AdcionarNova.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:17:06.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHomeAdm.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeAdm.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormHomeAdm.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeAdm.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormHomeAdm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAASwCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:08:49.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlterNotificacao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AlterNotificacao.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\AlterNotificacao.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AlterNotificacao.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\AlterNotificacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:39:26.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlterNotificacao.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AlterNotificacao.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\AlterNotificacao.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AlterNotificacao.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\AlterNotificacao.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:26.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificacaoControl.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\NotificacaoControl.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\NotificacaoControl.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\NotificacaoControl.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\NotificacaoControl.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:28:58.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHomeAdm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeAdm.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormHomeAdm.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeAdm.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormHomeAdm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:31:12.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdcionarNova.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AdcionarNova.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\AdcionarNova.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AdcionarNova.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\AdcionarNova.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:17:58.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlterNotificacao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AlterNotificacao.Designer.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\AlterNotificacao.Designer.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\AlterNotificacao.Designer.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\AlterNotificacao.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAIAwwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:59:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormHomeAdm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeAdm.Designer.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormHomeAdm.Designer.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeAdm.Designer.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormHomeAdm.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:15:06.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Program.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Program.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:08:47.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificacaoControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\NotificacaoControl.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\NotificacaoControl.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\NotificacaoControl.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\NotificacaoControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:25:59.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Parent.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\Parent.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Parent.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:33:24.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificacaoControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\NotificacaoControl.Designer.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\NotificacaoControl.Designer.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\NotificacaoControl.Designer.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\NotificacaoControl.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:50:37.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormSenha.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormSenha.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormSenha.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormSenha.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormSenha.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:22:19.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormLogin.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormLogin.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:08:04.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormCadastro.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormCadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:39:32.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormHomeUsu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeUsu.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormHomeUsu.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeUsu.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormHomeUsu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:31:21.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormLogin.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormLogin.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:59:22.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Parent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Parent.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\Parent.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Parent.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\Parent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:33:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Form1.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Form1.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:45:53.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormCadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormCadastro.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormCadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:36:01.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormCadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormCadastro.Designer.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormCadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormCadastro.Designer.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormCadastro.Designer.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAgwLYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:11:05.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormHomeUsu.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeUsu.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormHomeUsu.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormHomeUsu.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormHomeUsu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:11:49.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Form1.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Form1.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:51:38.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormSenha.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormSenha.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\FormSenha.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\FormSenha.cs [Design]",
+              "RelativeToolTip": "ProvaFutebol2.0\\FormSenha.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:16:14.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "ProvaFutebol2.0\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:40:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "ProvaFutebol2.0\\Model\\Model1.edmx",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\ProvaFutebol2.0\\ProvaFutebol2.0\\Model\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ProvaFutebol2.0\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-27T17:58:38.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
