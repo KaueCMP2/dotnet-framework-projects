@@ -1,0 +1,16 @@
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\bin\Debug\LoginHomeUsuario.exe.config
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\bin\Debug\LoginHomeUsuario.exe
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\bin\Debug\LoginHomeUsuario.pdb
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\bin\Debug\EntityFramework.dll
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\bin\Debug\EntityFramework.xml
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.csproj.AssemblyReference.cache
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.Form1.resources
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.Properties.Resources.resources
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.csproj.GenerateResource.cache
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHom.8797DEA0.Up2Date
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.exe
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.pdb
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.exe.config
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.FormCadastro.resources
+C:\Users\KaueCMP2\Documents\Projetos-CSharp\LoginHomeUsuario\LoginHomeUsuario\obj\Debug\LoginHomeUsuario.FormHomeUsuario.resources

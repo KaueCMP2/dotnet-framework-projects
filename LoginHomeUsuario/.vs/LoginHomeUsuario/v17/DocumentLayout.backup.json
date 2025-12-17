@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\formhomeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\formhomeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|c:\\users\\kauecmp2\\documents\\projetos-csharp\\loginhomeusuario\\loginhomeusuario\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\formhomeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\formhomeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|c:\\users\\kauecmp2\\documents\\projetos-csharp\\loginhomeusuario\\loginhomeusuario\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\formsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\formsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|c:\\users\\kauecmp2\\documents\\projetos-csharp\\loginhomeusuario\\loginhomeusuario\\formcadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\formcadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|c:\\users\\kauecmp2\\documents\\projetos-csharp\\loginhomeusuario\\loginhomeusuario\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\usuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\usuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\loginhomeusuario\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D28F44F8-7438-4CE0-8F46-1CA1BFADBD9B}|LoginHomeUsuario\\LoginHomeUsuario.csproj|solutionrelative:loginhomeusuario\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Program.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\Program.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Program.cs",
+              "RelativeToolTip": "LoginHomeUsuario\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T20:58:23.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormCadastro.cs [Design]",
+              "RelativeToolTip": "LoginHomeUsuario\\FormCadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:05:55.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormHomeUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormHomeUsuario.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\FormHomeUsuario.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormHomeUsuario.cs [Design]",
+              "RelativeToolTip": "LoginHomeUsuario\\FormHomeUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:02:19.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormCadastro.cs",
+              "RelativeToolTip": "LoginHomeUsuario\\FormCadastro.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAIA1wF8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:06:30.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormHomeUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormHomeUsuario.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\FormHomeUsuario.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormHomeUsuario.cs",
+              "RelativeToolTip": "LoginHomeUsuario\\FormHomeUsuario.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwDUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:02:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\Form1.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Form1.cs [Design]",
+              "RelativeToolTip": "LoginHomeUsuario\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T20:50:49.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\Form1.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Form1.cs",
+              "RelativeToolTip": "LoginHomeUsuario\\Form1.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T20:55:52.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Class1.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\Class1.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Class1.cs",
+              "RelativeToolTip": "LoginHomeUsuario\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:30:34.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormSenha.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormSenha.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\FormSenha.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormSenha.cs [Design]",
+              "RelativeToolTip": "LoginHomeUsuario\\FormSenha.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:03:56.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormCadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormCadastro.Designer.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\FormCadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\FormCadastro.Designer.cs",
+              "RelativeToolTip": "LoginHomeUsuario\\FormCadastro.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAIgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:54:16.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Parent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Parent.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\Parent.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Parent.cs [Design]",
+              "RelativeToolTip": "LoginHomeUsuario\\Parent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T20:56:17.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Properties\\Settings.settings",
+              "RelativeToolTip": "LoginHomeUsuario\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-12-06T22:11:24.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Parent.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\Parent.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Parent.cs",
+              "RelativeToolTip": "LoginHomeUsuario\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T20:56:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioLogado.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\UsuarioLogado.cs",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\UsuarioLogado.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\UsuarioLogado.cs*",
+              "RelativeToolTip": "LoginHomeUsuario\\UsuarioLogado.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:14:00.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "LoginHomeUsuario\\Model\\Model1.edmx",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\LoginHomeUsuario\\LoginHomeUsuario\\Model\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "LoginHomeUsuario\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-06T20:57:04.058Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
