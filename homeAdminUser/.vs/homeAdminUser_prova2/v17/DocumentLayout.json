@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formhomeusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formhomeusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|c:\\users\\kauecmp2\\documents\\projetos-csharp\\homeadminuser_prova2\\homeadminuser_prova2\\formhomeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formhomeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formhomeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formhomeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formesqueceusenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formesqueceusenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formesqueceusenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formesqueceusenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\model\\jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\model\\jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formalterarnotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formalterarnotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formadicionarnotifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formadicionarnotifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formhomeusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formhomeusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formhomeadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formhomeadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formalterarnotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formalterarnotificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formadicionarnotifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formadicionarnotifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\notificacontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\notificacontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\notificacontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\notificacontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeadminuser_prova2\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{06C0AEC3-7EB0-4035-AC70-5AC825C1C6CE}|homeAdminUser_prova2\\homeAdminUser_prova2.csproj|solutionrelative:homeadminuser_prova2\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormHomeAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeAdmin.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormHomeAdmin.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeAdmin.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormHomeAdmin.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:01:06.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEsqueceuSenha.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormEsqueceuSenha.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormEsqueceuSenha.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormEsqueceuSenha.cs [Design]",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormEsqueceuSenha.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:58:56.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEsqueceuSenha.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormEsqueceuSenha.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormEsqueceuSenha.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormEsqueceuSenha.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormEsqueceuSenha.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:59:01.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHomeAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeAdmin.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormHomeAdmin.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeAdmin.cs [Design]",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormHomeAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:42:38.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Jogos.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Model\\Jogos.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\Model\\Jogos.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Model\\Jogos.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\Model\\Jogos.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T23:56:14.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormHomeUsu.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeUsu.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormHomeUsu.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeUsu.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormHomeUsu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:01:22.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormCadastro.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormCadastro.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowH8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:58:18.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormCadastro.cs [Design]",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormCadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:57:49.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAdicionarNotifi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormAdicionarNotifi.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormAdicionarNotifi.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormAdicionarNotifi.cs [Design]",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormAdicionarNotifi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:48:23.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAlterarNotificacao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormAlterarNotificacao.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormAlterarNotificacao.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormAlterarNotificacao.cs [Design]",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormAlterarNotificacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:32:33.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormHomeUsu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeUsu.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormHomeUsu.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeUsu.cs [Design]",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormHomeUsu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:01:21.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormLogin.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormLogin.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormLogin.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADgv2QAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:57:54.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Properties\\Settings.settings",
+              "RelativeToolTip": "homeAdminUser_prova2\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-12-01T17:02:16.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormAdicionarNotifi.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormAdicionarNotifi.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormAdicionarNotifi.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormAdicionarNotifi.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormAdicionarNotifi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:49:05.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormHomeAdmin.resx",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeAdmin.resx",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormHomeAdmin.resx",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormHomeAdmin.resx",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormHomeAdmin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-01T23:25:52.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAlterarNotificacao.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormAlterarNotificacao.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormAlterarNotificacao.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormAlterarNotificacao.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormAlterarNotificacao.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:18:00.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Program.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\Program.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Program.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:49:52.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormLogin.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\FormLogin.cs [Design]",
+              "RelativeToolTip": "homeAdminUser_prova2\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:49:48.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotificaControls.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\NotificaControls.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\NotificaControls.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\NotificaControls.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\NotificaControls.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:24:29.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificaControls.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\NotificaControls.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\NotificaControls.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\NotificaControls.cs [Design]",
+              "RelativeToolTip": "homeAdminUser_prova2\\NotificaControls.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:22:58.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\packages.config",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\packages.config",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\packages.config",
+              "RelativeToolTip": "homeAdminUser_prova2\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-01T22:38:38.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Parent.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\Parent.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Parent.cs",
+              "RelativeToolTip": "homeAdminUser_prova2\\Parent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:00:33.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Parent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Parent.cs",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\Parent.cs",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Parent.cs [Design]",
+              "RelativeToolTip": "homeAdminUser_prova2\\Parent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:00:29.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "homeAdminUser_prova2\\Model\\Model1.edmx",
+              "ToolTip": "C:\\Users\\KaueCMP2\\Documents\\Projetos-CSharp\\homeAdminUser_prova2\\homeAdminUser_prova2\\Model\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "homeAdminUser_prova2\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-01T17:02:57.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
